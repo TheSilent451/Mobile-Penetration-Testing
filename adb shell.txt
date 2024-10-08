@@ -1,0 +1,18 @@
+adb shell
+adb devices
+data/data
+logcat
+
+
+adb shell am start -n com.example.myflutterapp/.MainActivity --es userId 12345
+
+
+
+
+drozer
+
+run app.activity.start --component com.mwr.exaple.sieve com.actibity
+
+run app.activity.start --component com.mwr.exaple.sieve com.mwr.exaple.sieve.Mainactivity
+
+run app.activity.attachsurface  com.mwr.exaple.sieve
