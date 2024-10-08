@@ -16,3 +16,7 @@ run app.activity.start --component com.mwr.exaple.sieve com.actibity
 run app.activity.start --component com.mwr.exaple.sieve com.mwr.exaple.sieve.Mainactivity
 
 run app.activity.attachsurface  com.mwr.exaple.sieve
+
+
+
+drozer Download : https://www.onworks.net/software/windows/app-drozer
